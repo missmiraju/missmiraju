@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gioia 👩🏻‍💻 🎉</h1>
-<h3 align="center">A Young Female Software Developer Shatters who Stereotypes and empowers Innovation in Tech World 👩🏻‍💻</h3>
+<h3 align="center">A Young Female Web Developer Shatters who Stereotypes and empowers Innovation in Tech World 👩🏻‍💻</h3>
 
 <h3 align="center"> I am looking to collaborate on various projects - feel free to contact me 😍 </h3>
 
